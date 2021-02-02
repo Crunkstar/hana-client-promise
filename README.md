@@ -2,6 +2,11 @@
 
 Promise and Typescript support to @sap/hana-client module
 
+```
+npm i --save @crunkstar/hana-client-promise
+```
+
+## Old Readme
 ## Installation
 
 Add module depency by executing this command inside your project folder:
